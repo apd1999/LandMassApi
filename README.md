@@ -26,3 +26,9 @@ Also edit the console.log message to match host name
 Should all be installed by npm:
 - Turf.js
 - Express
+
+
+##usage
+localhost:3000/lat/long/altitude
+
+
