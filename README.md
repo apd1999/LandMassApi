@@ -5,8 +5,9 @@ This API returns if a point is in land or water, or which nation's territory (if
 ## Getting Started
 
 ```bash
-git clone <repo_url>
-pacman -S nodejs
+clone the repository
+
+Install nodejs
 
 node geoapi.js
 
