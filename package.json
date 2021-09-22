@@ -1,0 +1,16 @@
+{
+  "name": "geoapi",
+  "version": "1.1",
+  "description": "API to determine if a point is on water or not",
+  "main": "geoapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Duly, Charles Heslington",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/boolean-point-in-polygon": "^6.5.0",
+    "@turf/helpers": "^6.5.0",
+    "express": "^4.17.1"
+  }
+}
