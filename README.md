@@ -11,17 +11,7 @@ Install nodejs
 
 node geoapi.js
 
-To create a systemd file to run this 
 
-cp systemdfiles/geoapi.service /etc/systemd/system/geoapi.service
-
-modify the exec start and working directory appropriately
-
-systemctl enable geoapi.service
-systemctl start geoapi.service 
-
-
-Also edit the console.log message to match host name 
 ## Dependancies 
 
 Should all be installed by npm:
