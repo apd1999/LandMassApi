@@ -1,4 +1,4 @@
-# GeoAPI NodeJS API
+# LandMass NodeJS API
 
 This API returns if a point is in land or water, or which nation's territory (if any) a point is in. 
 
