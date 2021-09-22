@@ -2,6 +2,8 @@
 
 This API returns if a point is in land or water, or which nation's territory (if any) a point is in. 
 
+Geojson file generated from https://geojson-maps.ash.ms/ using high resolution and all regions selected 
+
 ## Getting Started
 
 ```bash
