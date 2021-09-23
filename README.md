@@ -11,7 +11,7 @@ clone the repository
 
 Install nodejs
 
-node geoapi.js
+node landmass.js
 
 
 ## Dependancies 
