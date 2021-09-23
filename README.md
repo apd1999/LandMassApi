@@ -11,7 +11,7 @@ clone the repository
 
 Install nodejs
 
-node landmass.js
+node landmassapi.js.js
 
 
 ## Dependancies 
