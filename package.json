@@ -1,8 +1,8 @@
 {
-  "name": "Landmass",
+  "name": "LandmassAPI",
   "version": "1.1",
   "description": "API to determine if a point is on water or not",
-  "main": "landmass.js",
+  "main": "landmassapi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
